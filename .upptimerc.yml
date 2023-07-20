@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: bnuy.zone Status | Upptime
   introTitle: "**bnuy.zone** is a small Mastodon server run by a small bnuy."
-  introMessage: See this page for the status of the bnuy.zone Mastodon server. [**Status page powered by**](https://github.com/upptime/upptime)
+  introMessage: See this page for the status of the bnuy.zone Mastodon server.
   navbar:
     - title: Status
       href: /
