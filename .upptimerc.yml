@@ -5,6 +5,10 @@ repo: status.bnuy.zone # The name of this repository
 sites:
   - name: bnuy.zone
     url: https://bnuy.zone
+  - name: Astra Bun Links
+    url: https://astrabun.com
+  - name: Astra Bun Art Gallery
+    url: https://art.astrabun.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
